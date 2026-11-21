@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs and distribution
+build/
+dist/
+*.spec
+
+# User local settings / state cache
+crosshair_settings.json
+test_crosshair_config.json
+test_export.json
+*.json.bak
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
